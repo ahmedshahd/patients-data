@@ -1,0 +1,3008 @@
+[
+    {
+        "id": 15707,
+        "is_medically_compromised": 0,
+        "name": "دينا اشرف عبد الحليم",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01064594879",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:49:03.000000Z",
+        "updated_at": "2022-12-21T07:49:03.000000Z",
+        "operations": [
+            {
+                "id": 17620,
+                "user_id": 335,
+                "patient_id": 15707,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "13",
+                    "21"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:49:03.000000Z",
+                "updated_at": "2022-12-21T07:49:03.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18347,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17620,
+                        "visit_id": 10838,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:49:03.000000Z",
+                        "updated_at": "2022-12-21T07:49:03.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15708,
+        "is_medically_compromised": 0,
+        "name": "مريم مفتاح عوض",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01096465071",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:49:58.000000Z",
+        "updated_at": "2022-12-21T07:49:58.000000Z",
+        "operations": [
+            {
+                "id": 17621,
+                "user_id": 335,
+                "patient_id": 15708,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "4",
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:49:58.000000Z",
+                "updated_at": "2022-12-21T07:49:58.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18348,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17621,
+                        "visit_id": 10840,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:49:58.000000Z",
+                        "updated_at": "2022-12-21T07:49:58.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15709,
+        "is_medically_compromised": 0,
+        "name": "عصام عباس السيد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01276023401",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:51:08.000000Z",
+        "updated_at": "2022-12-21T07:51:08.000000Z",
+        "operations": [
+            {
+                "id": 17622,
+                "user_id": 335,
+                "patient_id": 15709,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "9"
+                ],
+                "state": "active",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:51:08.000000Z",
+                "updated_at": "2022-12-24T08:55:20.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18349,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17622,
+                        "visit_id": 10842,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:51:08.000000Z",
+                        "updated_at": "2022-12-21T07:51:08.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": [
+                    {
+                        "name": "عمر محمد عبدالحافظ مصطفى",
+                        "pivot": {
+                            "operation_id": 17622,
+                            "user_grade_id": 6017,
+                            "type": "operator",
+                            "percent": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15710,
+        "is_medically_compromised": 0,
+        "name": "محمد ياسر بدوي",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01063012218",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:52:01.000000Z",
+        "updated_at": "2022-12-21T07:52:01.000000Z",
+        "operations": [
+            {
+                "id": 17623,
+                "user_id": 335,
+                "patient_id": 15710,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "9"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:52:01.000000Z",
+                "updated_at": "2022-12-21T07:52:01.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18350,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17623,
+                        "visit_id": 10844,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:52:01.000000Z",
+                        "updated_at": "2022-12-21T07:52:01.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15711,
+        "is_medically_compromised": 0,
+        "name": "عبدالله سعيد عفيفي",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01020437371",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:52:47.000000Z",
+        "updated_at": "2022-12-21T07:52:47.000000Z",
+        "operations": [
+            {
+                "id": 17624,
+                "user_id": 335,
+                "patient_id": 15711,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:52:47.000000Z",
+                "updated_at": "2022-12-21T07:52:47.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18351,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17624,
+                        "visit_id": 10846,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:52:47.000000Z",
+                        "updated_at": "2022-12-21T07:52:47.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15712,
+        "is_medically_compromised": 0,
+        "name": "اسراء سعيد سالم",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01090126896",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:53:41.000000Z",
+        "updated_at": "2022-12-21T07:53:41.000000Z",
+        "operations": [
+            {
+                "id": 17625,
+                "user_id": 335,
+                "patient_id": 15712,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "14",
+                    "19",
+                    "18",
+                    "30",
+                    "31"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:53:41.000000Z",
+                "updated_at": "2022-12-21T07:53:41.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18352,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17625,
+                        "visit_id": 10848,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:53:41.000000Z",
+                        "updated_at": "2022-12-21T07:53:41.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15713,
+        "is_medically_compromised": 0,
+        "name": "محمد هشام عبدالحميد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01149865700",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:54:36.000000Z",
+        "updated_at": "2022-12-21T07:54:36.000000Z",
+        "operations": [
+            {
+                "id": 17626,
+                "user_id": 335,
+                "patient_id": 15713,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:54:36.000000Z",
+                "updated_at": "2022-12-21T07:54:36.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18353,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17626,
+                        "visit_id": 10850,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:54:36.000000Z",
+                        "updated_at": "2022-12-21T07:54:36.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15714,
+        "is_medically_compromised": 0,
+        "name": "صلاح عبد الراضي عبد العال",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01110665743",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:55:31.000000Z",
+        "updated_at": "2022-12-21T07:55:31.000000Z",
+        "operations": [
+            {
+                "id": 17627,
+                "user_id": 335,
+                "patient_id": 15714,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "22"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:55:31.000000Z",
+                "updated_at": "2022-12-21T07:55:31.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18354,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17627,
+                        "visit_id": 10852,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:55:31.000000Z",
+                        "updated_at": "2022-12-21T07:55:31.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15715,
+        "is_medically_compromised": 0,
+        "name": "احمد حافظ حسن",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01282826778",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:56:24.000000Z",
+        "updated_at": "2022-12-21T07:56:24.000000Z",
+        "operations": [
+            {
+                "id": 17628,
+                "user_id": 335,
+                "patient_id": 15715,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "5",
+                    "13",
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:56:24.000000Z",
+                "updated_at": "2022-12-21T07:56:24.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18355,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17628,
+                        "visit_id": 10854,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:56:24.000000Z",
+                        "updated_at": "2022-12-21T07:56:24.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15716,
+        "is_medically_compromised": 0,
+        "name": "بخيته هاشم همام",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01208434487",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T07:57:20.000000Z",
+        "updated_at": "2022-12-21T07:57:20.000000Z",
+        "operations": [
+            {
+                "id": 17629,
+                "user_id": 335,
+                "patient_id": 15716,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T07:57:20.000000Z",
+                "updated_at": "2022-12-21T07:57:20.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18356,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17629,
+                        "visit_id": 10856,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T07:57:20.000000Z",
+                        "updated_at": "2022-12-21T07:57:20.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15717,
+        "is_medically_compromised": 0,
+        "name": "زينب محمود احمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01158245095",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:02:43.000000Z",
+        "updated_at": "2022-12-21T08:02:43.000000Z",
+        "operations": [
+            {
+                "id": 17630,
+                "user_id": 335,
+                "patient_id": 15717,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "13"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:02:43.000000Z",
+                "updated_at": "2022-12-21T08:02:43.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18357,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17630,
+                        "visit_id": 10858,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:02:43.000000Z",
+                        "updated_at": "2022-12-21T08:02:43.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15718,
+        "is_medically_compromised": 0,
+        "name": "محمد شوقي سمير",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01149646500",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:03:50.000000Z",
+        "updated_at": "2022-12-21T08:03:50.000000Z",
+        "operations": [
+            {
+                "id": 17631,
+                "user_id": 335,
+                "patient_id": 15718,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "10"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:03:50.000000Z",
+                "updated_at": "2022-12-21T08:03:50.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18358,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17631,
+                        "visit_id": 10860,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:03:50.000000Z",
+                        "updated_at": "2022-12-21T08:03:50.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15719,
+        "is_medically_compromised": 0,
+        "name": "محمد شوقى سمير",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01149646500",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:05:05.000000Z",
+        "updated_at": "2022-12-21T08:05:05.000000Z",
+        "operations": [
+            {
+                "id": 17632,
+                "user_id": 335,
+                "patient_id": 15719,
+                "operation_style_id": 31,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "9"
+                ],
+                "state": "waiting",
+                "name": "endodontic Retreatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:05:05.000000Z",
+                "updated_at": "2022-12-21T08:05:05.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 31,
+                    "name": "endodontic Retreatment"
+                },
+                "visits": [
+                    {
+                        "id": 18359,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17632,
+                        "visit_id": 10862,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:05:05.000000Z",
+                        "updated_at": "2022-12-21T08:05:05.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15720,
+        "is_medically_compromised": 0,
+        "name": "هبه موسي يس",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01558208796",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:06:00.000000Z",
+        "updated_at": "2022-12-21T08:06:00.000000Z",
+        "operations": [
+            {
+                "id": 17633,
+                "user_id": 335,
+                "patient_id": 15720,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:06:00.000000Z",
+                "updated_at": "2022-12-21T08:06:00.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18360,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17633,
+                        "visit_id": 10864,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:06:00.000000Z",
+                        "updated_at": "2022-12-21T08:06:00.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15721,
+        "is_medically_compromised": 0,
+        "name": "اسماء محمد كامل",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01008855644",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:06:47.000000Z",
+        "updated_at": "2022-12-21T08:06:47.000000Z",
+        "operations": [
+            {
+                "id": 17634,
+                "user_id": 335,
+                "patient_id": 15721,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:06:47.000000Z",
+                "updated_at": "2022-12-21T08:06:47.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18361,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17634,
+                        "visit_id": 10866,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:06:47.000000Z",
+                        "updated_at": "2022-12-21T08:06:47.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15722,
+        "is_medically_compromised": 0,
+        "name": "السيد الطلي شعبان",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01018843525",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:07:37.000000Z",
+        "updated_at": "2022-12-21T08:07:37.000000Z",
+        "operations": [
+            {
+                "id": 17635,
+                "user_id": 335,
+                "patient_id": 15722,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "4",
+                    "28"
+                ],
+                "state": "active",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:07:37.000000Z",
+                "updated_at": "2022-12-21T08:08:07.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18362,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17635,
+                        "visit_id": 10868,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:07:37.000000Z",
+                        "updated_at": "2022-12-21T08:07:37.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": [
+                    {
+                        "name": "احمد محمد محمد الصفطاوى",
+                        "pivot": {
+                            "operation_id": 17635,
+                            "user_grade_id": 6649,
+                            "type": "operator",
+                            "percent": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15723,
+        "is_medically_compromised": 0,
+        "name": "ولاء عبد الحميد محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01152435030",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:09:00.000000Z",
+        "updated_at": "2022-12-21T08:09:00.000000Z",
+        "operations": [
+            {
+                "id": 17636,
+                "user_id": 335,
+                "patient_id": 15723,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "8",
+                    "7",
+                    "6",
+                    "9",
+                    "10",
+                    "21",
+                    "20"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:09:00.000000Z",
+                "updated_at": "2022-12-21T08:09:00.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18363,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17636,
+                        "visit_id": 10870,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:09:00.000000Z",
+                        "updated_at": "2022-12-21T08:09:00.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15724,
+        "is_medically_compromised": 0,
+        "name": "محمد هشام عبد الحميد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01149865700",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:09:42.000000Z",
+        "updated_at": "2022-12-21T08:09:42.000000Z",
+        "operations": [
+            {
+                "id": 17637,
+                "user_id": 335,
+                "patient_id": 15724,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:09:42.000000Z",
+                "updated_at": "2022-12-21T08:09:42.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18364,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17637,
+                        "visit_id": 10872,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:09:42.000000Z",
+                        "updated_at": "2022-12-21T08:09:42.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15725,
+        "is_medically_compromised": 0,
+        "name": "محمد شاهين محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01116680288",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:10:37.000000Z",
+        "updated_at": "2022-12-21T08:10:37.000000Z",
+        "operations": [
+            {
+                "id": 17638,
+                "user_id": 335,
+                "patient_id": 15725,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "15"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:10:37.000000Z",
+                "updated_at": "2022-12-21T08:10:37.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18365,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17638,
+                        "visit_id": 10874,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:10:37.000000Z",
+                        "updated_at": "2022-12-21T08:10:37.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15726,
+        "is_medically_compromised": 0,
+        "name": "ايمان عبدالرحيم احمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01118531172",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:11:35.000000Z",
+        "updated_at": "2022-12-21T08:11:35.000000Z",
+        "operations": [
+            {
+                "id": 17639,
+                "user_id": 335,
+                "patient_id": 15726,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "29"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:11:35.000000Z",
+                "updated_at": "2022-12-21T08:11:35.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18366,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17639,
+                        "visit_id": 10876,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:11:35.000000Z",
+                        "updated_at": "2022-12-21T08:11:35.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15727,
+        "is_medically_compromised": 0,
+        "name": "نجلاء احمد محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01008435921",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:12:33.000000Z",
+        "updated_at": "2022-12-21T08:12:33.000000Z",
+        "operations": [
+            {
+                "id": 17640,
+                "user_id": 335,
+                "patient_id": 15727,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:12:33.000000Z",
+                "updated_at": "2022-12-21T08:12:33.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18367,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17640,
+                        "visit_id": 10878,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:12:33.000000Z",
+                        "updated_at": "2022-12-21T08:12:33.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15728,
+        "is_medically_compromised": 0,
+        "name": "بدريه محروس ابو زيد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01126012723",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:13:21.000000Z",
+        "updated_at": "2022-12-21T08:13:21.000000Z",
+        "operations": [
+            {
+                "id": 17641,
+                "user_id": 335,
+                "patient_id": 15728,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "7"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:13:21.000000Z",
+                "updated_at": "2022-12-21T08:13:21.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18368,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17641,
+                        "visit_id": 10880,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:13:21.000000Z",
+                        "updated_at": "2022-12-21T08:13:21.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15729,
+        "is_medically_compromised": 0,
+        "name": "امال حسن محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01151521900",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:13:56.000000Z",
+        "updated_at": "2022-12-21T08:13:56.000000Z",
+        "operations": [
+            {
+                "id": 17642,
+                "user_id": 335,
+                "patient_id": 15729,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "13"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:13:56.000000Z",
+                "updated_at": "2022-12-21T08:13:56.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18369,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17642,
+                        "visit_id": 10882,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:13:56.000000Z",
+                        "updated_at": "2022-12-21T08:13:56.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15730,
+        "is_medically_compromised": 0,
+        "name": "كريمه سيد محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01157226007",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:14:44.000000Z",
+        "updated_at": "2022-12-21T08:14:44.000000Z",
+        "operations": [
+            {
+                "id": 17643,
+                "user_id": 335,
+                "patient_id": 15730,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "20"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:14:44.000000Z",
+                "updated_at": "2022-12-21T08:14:44.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18370,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17643,
+                        "visit_id": 10884,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:14:44.000000Z",
+                        "updated_at": "2022-12-21T08:14:44.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15731,
+        "is_medically_compromised": 0,
+        "name": "محمود شوقي عبد الفتاح",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01550833356",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:15:53.000000Z",
+        "updated_at": "2022-12-21T08:15:53.000000Z",
+        "operations": [
+            {
+                "id": 17644,
+                "user_id": 335,
+                "patient_id": 15731,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19",
+                    "14"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:15:53.000000Z",
+                "updated_at": "2022-12-21T08:15:53.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18371,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17644,
+                        "visit_id": 10886,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:15:53.000000Z",
+                        "updated_at": "2022-12-21T08:15:53.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15732,
+        "is_medically_compromised": 0,
+        "name": "رحمه عبدالعزيز صالح",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01203217397",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:16:25.000000Z",
+        "updated_at": "2022-12-21T08:16:25.000000Z",
+        "operations": [
+            {
+                "id": 17645,
+                "user_id": 2922,
+                "patient_id": 15732,
+                "operation_style_id": 69,
+                "department_id": 5,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19",
+                    "18"
+                ],
+                "state": "waiting",
+                "name": "refilling",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:16:25.000000Z",
+                "updated_at": "2022-12-21T08:16:25.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2922,
+                    "name": "محمد احمد عبدالله ربيع"
+                },
+                "style": {
+                    "id": 69,
+                    "name": "refilling"
+                },
+                "visits": [
+                    {
+                        "id": 18372,
+                        "director_id": null,
+                        "user_id": 2922,
+                        "operation_id": 17645,
+                        "visit_id": 10888,
+                        "user_grade_id": 4309,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:16:25.000000Z",
+                        "updated_at": "2022-12-21T08:16:25.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2922,
+                            "name": "محمد احمد عبدالله ربيع"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15733,
+        "is_medically_compromised": 0,
+        "name": "رحاب جمال نجيب",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01096642853",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:16:53.000000Z",
+        "updated_at": "2022-12-21T08:16:53.000000Z",
+        "operations": [
+            {
+                "id": 17646,
+                "user_id": 335,
+                "patient_id": 15733,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "5",
+                    "28"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:16:53.000000Z",
+                "updated_at": "2022-12-21T08:16:53.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18373,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17646,
+                        "visit_id": 10890,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:16:53.000000Z",
+                        "updated_at": "2022-12-21T08:16:53.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15734,
+        "is_medically_compromised": 0,
+        "name": "الاء اسامه صبحي",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01061683702",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:17:44.000000Z",
+        "updated_at": "2022-12-21T08:17:44.000000Z",
+        "operations": [
+            {
+                "id": 17647,
+                "user_id": 2922,
+                "patient_id": 15734,
+                "operation_style_id": 69,
+                "department_id": 5,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "31",
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "refilling",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:17:44.000000Z",
+                "updated_at": "2022-12-21T08:17:44.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2922,
+                    "name": "محمد احمد عبدالله ربيع"
+                },
+                "style": {
+                    "id": 69,
+                    "name": "refilling"
+                },
+                "visits": [
+                    {
+                        "id": 18374,
+                        "director_id": null,
+                        "user_id": 2922,
+                        "operation_id": 17647,
+                        "visit_id": 10892,
+                        "user_grade_id": 4309,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:17:44.000000Z",
+                        "updated_at": "2022-12-21T08:17:44.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2922,
+                            "name": "محمد احمد عبدالله ربيع"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15735,
+        "is_medically_compromised": 0,
+        "name": "مني محمد حامد",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01027612370",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:18:55.000000Z",
+        "updated_at": "2022-12-21T08:18:55.000000Z",
+        "operations": [
+            {
+                "id": 17648,
+                "user_id": 2922,
+                "patient_id": 15735,
+                "operation_style_id": 29,
+                "department_id": 5,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "31"
+                ],
+                "state": "waiting",
+                "name": "filling class V",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:18:55.000000Z",
+                "updated_at": "2022-12-21T08:18:55.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2922,
+                    "name": "محمد احمد عبدالله ربيع"
+                },
+                "style": {
+                    "id": 29,
+                    "name": "filling class V"
+                },
+                "visits": [
+                    {
+                        "id": 18375,
+                        "director_id": null,
+                        "user_id": 2922,
+                        "operation_id": 17648,
+                        "visit_id": 10894,
+                        "user_grade_id": 4309,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:18:55.000000Z",
+                        "updated_at": "2022-12-21T08:18:55.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2922,
+                            "name": "محمد احمد عبدالله ربيع"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15736,
+        "is_medically_compromised": 0,
+        "name": "نايله حسن سيد",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01000391780",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:20:09.000000Z",
+        "updated_at": "2022-12-21T08:20:09.000000Z",
+        "operations": [
+            {
+                "id": 17649,
+                "user_id": 2922,
+                "patient_id": 15736,
+                "operation_style_id": 26,
+                "department_id": 5,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "13",
+                    "14",
+                    "19",
+                    "30"
+                ],
+                "state": "active",
+                "name": "filling class II (mesial)",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:20:09.000000Z",
+                "updated_at": "2022-12-21T09:34:01.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2922,
+                    "name": "محمد احمد عبدالله ربيع"
+                },
+                "style": {
+                    "id": 26,
+                    "name": "filling class II (mesial)"
+                },
+                "visits": [
+                    {
+                        "id": 18376,
+                        "director_id": null,
+                        "user_id": 2922,
+                        "operation_id": 17649,
+                        "visit_id": 10896,
+                        "user_grade_id": 4309,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:20:09.000000Z",
+                        "updated_at": "2022-12-21T08:20:09.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2922,
+                            "name": "محمد احمد عبدالله ربيع"
+                        }
+                    }
+                ],
+                "operators": [
+                    {
+                        "name": "يوسف صلاح محمود محمد",
+                        "pivot": {
+                            "operation_id": 17649,
+                            "user_grade_id": 7018,
+                            "type": "operator",
+                            "percent": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15737,
+        "is_medically_compromised": 0,
+        "name": "حسيني كويوا مروان",
+        "family": null,
+        "gender": "ذكر",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01210394956",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:21:40.000000Z",
+        "updated_at": "2022-12-21T08:21:40.000000Z",
+        "operations": [
+            {
+                "id": 17650,
+                "user_id": 2922,
+                "patient_id": 15737,
+                "operation_style_id": 29,
+                "department_id": 5,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "9",
+                    "8"
+                ],
+                "state": "waiting",
+                "name": "filling class V",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:21:40.000000Z",
+                "updated_at": "2022-12-21T08:21:40.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2922,
+                    "name": "محمد احمد عبدالله ربيع"
+                },
+                "style": {
+                    "id": 29,
+                    "name": "filling class V"
+                },
+                "visits": [
+                    {
+                        "id": 18377,
+                        "director_id": null,
+                        "user_id": 2922,
+                        "operation_id": 17650,
+                        "visit_id": 10898,
+                        "user_grade_id": 4309,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:21:40.000000Z",
+                        "updated_at": "2022-12-21T08:21:40.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2922,
+                            "name": "محمد احمد عبدالله ربيع"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15738,
+        "is_medically_compromised": 0,
+        "name": "حسن محمود حسن",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01159346177",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:22:19.000000Z",
+        "updated_at": "2022-12-21T08:22:19.000000Z",
+        "operations": [
+            {
+                "id": 17651,
+                "user_id": 335,
+                "patient_id": 15738,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "5"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:22:19.000000Z",
+                "updated_at": "2022-12-21T08:22:19.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18378,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17651,
+                        "visit_id": 10900,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:22:19.000000Z",
+                        "updated_at": "2022-12-21T08:22:19.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15739,
+        "is_medically_compromised": 0,
+        "name": "احمد عبدالرازق محمد",
+        "family": null,
+        "gender": "ذكر",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01030488843",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:22:58.000000Z",
+        "updated_at": "2022-12-21T08:22:58.000000Z",
+        "operations": [
+            {
+                "id": 17652,
+                "user_id": 2922,
+                "patient_id": 15739,
+                "operation_style_id": 25,
+                "department_id": 5,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "filling class I",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:22:58.000000Z",
+                "updated_at": "2022-12-21T08:22:58.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2922,
+                    "name": "محمد احمد عبدالله ربيع"
+                },
+                "style": {
+                    "id": 25,
+                    "name": "filling class I"
+                },
+                "visits": [
+                    {
+                        "id": 18379,
+                        "director_id": null,
+                        "user_id": 2922,
+                        "operation_id": 17652,
+                        "visit_id": 10902,
+                        "user_grade_id": 4309,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:22:58.000000Z",
+                        "updated_at": "2022-12-21T08:22:58.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2922,
+                            "name": "محمد احمد عبدالله ربيع"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15740,
+        "is_medically_compromised": 0,
+        "name": "سحر عصام محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01278083151",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:23:04.000000Z",
+        "updated_at": "2022-12-21T08:23:04.000000Z",
+        "operations": [
+            {
+                "id": 17653,
+                "user_id": 335,
+                "patient_id": 15740,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "12"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:23:04.000000Z",
+                "updated_at": "2022-12-21T08:23:04.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18380,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17653,
+                        "visit_id": 10904,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:23:04.000000Z",
+                        "updated_at": "2022-12-21T08:23:04.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15741,
+        "is_medically_compromised": 0,
+        "name": "نشوي جمال عبد الرحمن",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01559566929",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهرة",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:23:59.000000Z",
+        "updated_at": "2022-12-21T08:23:59.000000Z",
+        "operations": [
+            {
+                "id": 17654,
+                "user_id": 335,
+                "patient_id": 15741,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "8",
+                    "14"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:23:59.000000Z",
+                "updated_at": "2022-12-21T08:23:59.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 335,
+                    "name": "محمد احمد طه بدر"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18381,
+                        "director_id": null,
+                        "user_id": 335,
+                        "operation_id": 17654,
+                        "visit_id": 10906,
+                        "user_grade_id": 0,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:23:59.000000Z",
+                        "updated_at": "2022-12-21T08:23:59.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 335,
+                            "name": "محمد احمد طه بدر"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15742,
+        "is_medically_compromised": 0,
+        "name": "مني محي الدين احمد",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01012638730",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-21T08:24:16.000000Z",
+        "updated_at": "2022-12-21T08:24:16.000000Z",
+        "operations": [
+            {
+                "id": 17655,
+                "user_id": 2922,
+                "patient_id": 15742,
+                "operation_style_id": 26,
+                "department_id": 5,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "18"
+                ],
+                "state": "waiting",
+                "name": "filling class II (mesial)",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-21T08:24:16.000000Z",
+                "updated_at": "2022-12-21T08:24:16.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2922,
+                    "name": "محمد احمد عبدالله ربيع"
+                },
+                "style": {
+                    "id": 26,
+                    "name": "filling class II (mesial)"
+                },
+                "visits": [
+                    {
+                        "id": 18382,
+                        "director_id": null,
+                        "user_id": 2922,
+                        "operation_id": 17655,
+                        "visit_id": 10908,
+                        "user_grade_id": 4309,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-21 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-21T08:24:16.000000Z",
+                        "updated_at": "2022-12-21T08:24:16.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2922,
+                            "name": "محمد احمد عبدالله ربيع"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    }
+]

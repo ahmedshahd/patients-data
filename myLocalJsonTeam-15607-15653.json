@@ -1,0 +1,3905 @@
+[
+    {
+        "id": 15607,
+        "is_medically_compromised": 0,
+        "name": "دعاء اشرف نور",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01125764009",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:16:08.000000Z",
+        "updated_at": "2022-12-17T18:16:08.000000Z",
+        "operations": [
+            {
+                "id": 17507,
+                "user_id": 449,
+                "patient_id": 15607,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:16:08.000000Z",
+                "updated_at": "2022-12-17T18:16:08.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18241,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17507,
+                        "visit_id": 10634,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:16:08.000000Z",
+                        "updated_at": "2022-12-17T18:16:08.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15608,
+        "is_medically_compromised": 0,
+        "name": "عبد الستار عصام عبد الستار",
+        "family": null,
+        "gender": "ذكر",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01093067229",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:16:58.000000Z",
+        "updated_at": "2022-12-17T18:16:58.000000Z",
+        "operations": [
+            {
+                "id": 17508,
+                "user_id": 449,
+                "patient_id": 15608,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:16:58.000000Z",
+                "updated_at": "2022-12-17T18:16:58.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18242,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17508,
+                        "visit_id": 10636,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:16:58.000000Z",
+                        "updated_at": "2022-12-17T18:16:58.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15609,
+        "is_medically_compromised": 0,
+        "name": "هشام محمد محمود",
+        "family": null,
+        "gender": "ذكر",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01122387171",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:17:48.000000Z",
+        "updated_at": "2022-12-17T18:17:48.000000Z",
+        "operations": [
+            {
+                "id": 17509,
+                "user_id": 449,
+                "patient_id": 15609,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "14",
+                    "13"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:17:48.000000Z",
+                "updated_at": "2022-12-17T18:17:48.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18243,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17509,
+                        "visit_id": 10638,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:17:48.000000Z",
+                        "updated_at": "2022-12-17T18:17:48.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15610,
+        "is_medically_compromised": 0,
+        "name": "احمد محمد محمد",
+        "family": null,
+        "gender": "ذكر",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01286807042",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:18:33.000000Z",
+        "updated_at": "2022-12-17T18:18:33.000000Z",
+        "operations": [
+            {
+                "id": 17510,
+                "user_id": 449,
+                "patient_id": 15610,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "14"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:18:33.000000Z",
+                "updated_at": "2022-12-17T18:18:33.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18244,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17510,
+                        "visit_id": 10640,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:18:33.000000Z",
+                        "updated_at": "2022-12-17T18:18:33.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15611,
+        "is_medically_compromised": 0,
+        "name": "نجوي إبراهيم عبد الله",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01006957958",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:20:09.000000Z",
+        "updated_at": "2022-12-17T18:20:09.000000Z",
+        "operations": [
+            {
+                "id": 17511,
+                "user_id": 449,
+                "patient_id": 15611,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "9"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:20:09.000000Z",
+                "updated_at": "2022-12-17T18:20:09.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18245,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17511,
+                        "visit_id": 10642,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:20:09.000000Z",
+                        "updated_at": "2022-12-17T18:20:09.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15612,
+        "is_medically_compromised": 0,
+        "name": "خالد عبد التواب احمد",
+        "family": null,
+        "gender": "ذكر",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01020306985",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:20:59.000000Z",
+        "updated_at": "2022-12-17T18:20:59.000000Z",
+        "operations": [
+            {
+                "id": 17512,
+                "user_id": 449,
+                "patient_id": 15612,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "4"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:20:59.000000Z",
+                "updated_at": "2022-12-17T18:20:59.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18246,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17512,
+                        "visit_id": 10644,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:20:59.000000Z",
+                        "updated_at": "2022-12-17T18:20:59.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15613,
+        "is_medically_compromised": 0,
+        "name": "محمد فتحي محمد",
+        "family": null,
+        "gender": "ذكر",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01018850028",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:21:46.000000Z",
+        "updated_at": "2022-12-17T18:21:46.000000Z",
+        "operations": [
+            {
+                "id": 17513,
+                "user_id": 449,
+                "patient_id": 15613,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "12"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:21:46.000000Z",
+                "updated_at": "2022-12-17T18:21:46.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18247,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17513,
+                        "visit_id": 10646,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:21:46.000000Z",
+                        "updated_at": "2022-12-17T18:21:46.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15614,
+        "is_medically_compromised": 0,
+        "name": "فايزه الشحات السيد",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01013814382",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:22:39.000000Z",
+        "updated_at": "2022-12-17T18:22:39.000000Z",
+        "operations": [
+            {
+                "id": 17514,
+                "user_id": 449,
+                "patient_id": 15614,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:22:39.000000Z",
+                "updated_at": "2022-12-17T18:22:39.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18248,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17514,
+                        "visit_id": 10648,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:22:39.000000Z",
+                        "updated_at": "2022-12-17T18:22:39.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15615,
+        "is_medically_compromised": 0,
+        "name": "شحاته مصطفى شحاته",
+        "family": null,
+        "gender": "ذكر",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01090775310",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:23:40.000000Z",
+        "updated_at": "2022-12-17T18:23:40.000000Z",
+        "operations": [
+            {
+                "id": 17515,
+                "user_id": 449,
+                "patient_id": 15615,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "28"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:23:40.000000Z",
+                "updated_at": "2022-12-17T18:23:40.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18249,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17515,
+                        "visit_id": 10650,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:23:40.000000Z",
+                        "updated_at": "2022-12-17T18:23:40.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15616,
+        "is_medically_compromised": 0,
+        "name": "شيماء ممدوح عتمان",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01024353487",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:24:39.000000Z",
+        "updated_at": "2022-12-17T18:24:39.000000Z",
+        "operations": [
+            {
+                "id": 17516,
+                "user_id": 449,
+                "patient_id": 15616,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "18"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:24:39.000000Z",
+                "updated_at": "2022-12-17T18:24:39.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18250,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17516,
+                        "visit_id": 10652,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:24:39.000000Z",
+                        "updated_at": "2022-12-17T18:24:39.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15617,
+        "is_medically_compromised": 0,
+        "name": "فريال حسن محمود",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01102126788",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-17T18:25:59.000000Z",
+        "updated_at": "2022-12-17T18:25:59.000000Z",
+        "operations": [
+            {
+                "id": 17517,
+                "user_id": 449,
+                "patient_id": 15617,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-17T18:25:59.000000Z",
+                "updated_at": "2022-12-17T18:25:59.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 449,
+                    "name": "احمد محمود محمد سليمان"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18251,
+                        "director_id": null,
+                        "user_id": 449,
+                        "operation_id": 17517,
+                        "visit_id": 10654,
+                        "user_grade_id": 6037,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-17 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-17T18:25:59.000000Z",
+                        "updated_at": "2022-12-17T18:25:59.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 449,
+                            "name": "احمد محمود محمد سليمان"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15618,
+        "is_medically_compromised": 0,
+        "name": "محمد احمد حسن",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01118555434",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:32:14.000000Z",
+        "updated_at": "2022-12-18T07:32:14.000000Z",
+        "operations": [
+            {
+                "id": 17519,
+                "user_id": 173,
+                "patient_id": 15618,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3",
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:32:14.000000Z",
+                "updated_at": "2022-12-18T07:32:14.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18254,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17519,
+                        "visit_id": 10658,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:32:14.000000Z",
+                        "updated_at": "2022-12-18T07:32:14.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15619,
+        "is_medically_compromised": 0,
+        "name": "محمد ربيع عبد الستار",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01552513095",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "الزهراء",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:39:07.000000Z",
+        "updated_at": "2022-12-18T07:39:07.000000Z",
+        "operations": [
+            {
+                "id": 17520,
+                "user_id": 173,
+                "patient_id": 15619,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19",
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:39:07.000000Z",
+                "updated_at": "2022-12-18T07:39:07.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18255,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17520,
+                        "visit_id": 10660,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:39:07.000000Z",
+                        "updated_at": "2022-12-18T07:39:07.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15620,
+        "is_medically_compromised": 0,
+        "name": "ابراهيم ابو العيد محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01123610823",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:41:22.000000Z",
+        "updated_at": "2022-12-18T07:41:22.000000Z",
+        "operations": [
+            {
+                "id": 17521,
+                "user_id": 173,
+                "patient_id": 15620,
+                "operation_style_id": 30,
+                "department_id": 5,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "10"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:41:22.000000Z",
+                "updated_at": "2022-12-18T07:41:22.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18256,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17521,
+                        "visit_id": 10662,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:41:22.000000Z",
+                        "updated_at": "2022-12-18T07:41:22.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15621,
+        "is_medically_compromised": 0,
+        "name": "محمد محمود بكر",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01123229381",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:42:56.000000Z",
+        "updated_at": "2022-12-18T07:42:56.000000Z",
+        "operations": [
+            {
+                "id": 17522,
+                "user_id": 173,
+                "patient_id": 15621,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3"
+                ],
+                "state": "active",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:42:56.000000Z",
+                "updated_at": "2022-12-18T08:03:50.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18257,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17522,
+                        "visit_id": 10664,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:42:56.000000Z",
+                        "updated_at": "2022-12-18T07:42:56.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": [
+                    {
+                        "name": "منصور عبدالحميد منصور الجمال",
+                        "pivot": {
+                            "operation_id": 17522,
+                            "user_grade_id": 6756,
+                            "type": "operator",
+                            "percent": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15622,
+        "is_medically_compromised": 0,
+        "name": "هالة أحمد علي",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01119758020",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "مدينة نصر",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:45:09.000000Z",
+        "updated_at": "2022-12-18T07:45:09.000000Z",
+        "operations": [
+            {
+                "id": 17523,
+                "user_id": 262,
+                "patient_id": 15622,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "24",
+                    "23",
+                    "25",
+                    "26",
+                    "14",
+                    "3"
+                ],
+                "state": "active",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:45:09.000000Z",
+                "updated_at": "2022-12-18T07:45:24.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 262,
+                    "name": "محمد زكريا عبدالعزيز"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18258,
+                        "director_id": null,
+                        "user_id": 262,
+                        "operation_id": 17523,
+                        "visit_id": 10666,
+                        "user_grade_id": 7343,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:45:09.000000Z",
+                        "updated_at": "2022-12-18T07:45:09.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 262,
+                            "name": "محمد زكريا عبدالعزيز"
+                        }
+                    }
+                ],
+                "operators": [
+                    {
+                        "name": "محمد جمال عدلي خربوش",
+                        "pivot": {
+                            "operation_id": 17523,
+                            "user_grade_id": 4538,
+                            "type": "operator",
+                            "percent": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15623,
+        "is_medically_compromised": 0,
+        "name": "سحر محمد محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01060294228",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:46:11.000000Z",
+        "updated_at": "2022-12-18T07:46:11.000000Z",
+        "operations": [
+            {
+                "id": 17524,
+                "user_id": 173,
+                "patient_id": 15623,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "14"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:46:11.000000Z",
+                "updated_at": "2022-12-18T07:46:11.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18259,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17524,
+                        "visit_id": 10668,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:46:11.000000Z",
+                        "updated_at": "2022-12-18T07:46:11.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15624,
+        "is_medically_compromised": 0,
+        "name": "احمد رفاعى على",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01157640994",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاعره",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:49:00.000000Z",
+        "updated_at": "2022-12-18T07:49:00.000000Z",
+        "operations": [
+            {
+                "id": 17525,
+                "user_id": 173,
+                "patient_id": 15624,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "14"
+                ],
+                "state": "active",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:49:00.000000Z",
+                "updated_at": "2022-12-18T07:51:21.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18260,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17525,
+                        "visit_id": 10670,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:49:00.000000Z",
+                        "updated_at": "2022-12-18T07:49:00.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": [
+                    {
+                        "name": "مصطفي شكري علي متولي",
+                        "pivot": {
+                            "operation_id": 17525,
+                            "user_grade_id": 6750,
+                            "type": "operator",
+                            "percent": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15625,
+        "is_medically_compromised": 0,
+        "name": "هانم جمعة السيد",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01272114588",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "مدينة نصر",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:49:25.000000Z",
+        "updated_at": "2022-12-18T07:49:25.000000Z",
+        "operations": [
+            {
+                "id": 17526,
+                "user_id": 262,
+                "patient_id": 15625,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:49:25.000000Z",
+                "updated_at": "2022-12-18T07:49:25.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 262,
+                    "name": "محمد زكريا عبدالعزيز"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18261,
+                        "director_id": null,
+                        "user_id": 262,
+                        "operation_id": 17526,
+                        "visit_id": 10672,
+                        "user_grade_id": 7343,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:49:25.000000Z",
+                        "updated_at": "2022-12-18T07:49:25.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 262,
+                            "name": "محمد زكريا عبدالعزيز"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15626,
+        "is_medically_compromised": 0,
+        "name": "امنيه طارق محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01102344208",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:50:43.000000Z",
+        "updated_at": "2022-12-18T07:50:43.000000Z",
+        "operations": [
+            {
+                "id": 17527,
+                "user_id": 173,
+                "patient_id": 15626,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "13",
+                    "14"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:50:43.000000Z",
+                "updated_at": "2022-12-18T07:50:43.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18262,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17527,
+                        "visit_id": 10674,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:50:43.000000Z",
+                        "updated_at": "2022-12-18T07:50:43.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15627,
+        "is_medically_compromised": 0,
+        "name": "محروس رجب محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01141534880",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T07:57:58.000000Z",
+        "updated_at": "2022-12-18T07:57:58.000000Z",
+        "operations": [
+            {
+                "id": 17528,
+                "user_id": 173,
+                "patient_id": 15627,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "20"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T07:57:58.000000Z",
+                "updated_at": "2022-12-18T07:57:58.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18263,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17528,
+                        "visit_id": 10676,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T07:57:58.000000Z",
+                        "updated_at": "2022-12-18T07:57:58.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15628,
+        "is_medically_compromised": 0,
+        "name": "ساره عبد القادر زكر",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01013759960",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:00:18.000000Z",
+        "updated_at": "2022-12-18T08:00:18.000000Z",
+        "operations": [
+            {
+                "id": 17529,
+                "user_id": 173,
+                "patient_id": 15628,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "18"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:00:18.000000Z",
+                "updated_at": "2022-12-18T08:00:18.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18264,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17529,
+                        "visit_id": 10678,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:00:18.000000Z",
+                        "updated_at": "2022-12-18T08:00:18.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15629,
+        "is_medically_compromised": 0,
+        "name": "جمال عبد الستار احمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01149413215",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهىن",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:01:08.000000Z",
+        "updated_at": "2022-12-18T08:01:08.000000Z",
+        "operations": [
+            {
+                "id": 17530,
+                "user_id": 173,
+                "patient_id": 15629,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "2"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:01:08.000000Z",
+                "updated_at": "2022-12-18T08:01:08.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18265,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17530,
+                        "visit_id": 10680,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:01:08.000000Z",
+                        "updated_at": "2022-12-18T08:01:08.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15630,
+        "is_medically_compromised": 0,
+        "name": "نورا محمد خلف احمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01142002984",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:02:09.000000Z",
+        "updated_at": "2022-12-18T08:02:09.000000Z",
+        "operations": [
+            {
+                "id": 17531,
+                "user_id": 173,
+                "patient_id": 15630,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:02:09.000000Z",
+                "updated_at": "2022-12-18T08:02:09.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18266,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17531,
+                        "visit_id": 10682,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:02:09.000000Z",
+                        "updated_at": "2022-12-18T08:02:09.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15631,
+        "is_medically_compromised": 0,
+        "name": "سيده امل حسن",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01096285652",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:10:08.000000Z",
+        "updated_at": "2022-12-18T08:10:08.000000Z",
+        "operations": [
+            {
+                "id": 17532,
+                "user_id": 173,
+                "patient_id": 15631,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "28",
+                    "29"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:10:08.000000Z",
+                "updated_at": "2022-12-18T08:10:08.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18267,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17532,
+                        "visit_id": 10684,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:10:08.000000Z",
+                        "updated_at": "2022-12-18T08:10:08.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15632,
+        "is_medically_compromised": 0,
+        "name": "مصطفى مراد علم",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01224767312",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "زهراء",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:13:08.000000Z",
+        "updated_at": "2022-12-18T08:13:08.000000Z",
+        "operations": [
+            {
+                "id": 17533,
+                "user_id": 2027,
+                "patient_id": 15632,
+                "operation_style_id": 32,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "18"
+                ],
+                "state": "waiting",
+                "name": "single crown",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:13:08.000000Z",
+                "updated_at": "2022-12-18T08:13:08.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 32,
+                    "name": "single crown"
+                },
+                "visits": [
+                    {
+                        "id": 18268,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17533,
+                        "visit_id": 10686,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:13:08.000000Z",
+                        "updated_at": "2022-12-18T08:13:08.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15633,
+        "is_medically_compromised": 0,
+        "name": "رشا فوزي ابو النصر",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01119635762",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "المطريه",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:14:11.000000Z",
+        "updated_at": "2022-12-18T08:14:11.000000Z",
+        "operations": [
+            {
+                "id": 17534,
+                "user_id": 2027,
+                "patient_id": 15633,
+                "operation_style_id": 32,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "single crown",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:14:11.000000Z",
+                "updated_at": "2022-12-18T08:14:11.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 32,
+                    "name": "single crown"
+                },
+                "visits": [
+                    {
+                        "id": 18269,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17534,
+                        "visit_id": 10688,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:14:11.000000Z",
+                        "updated_at": "2022-12-18T08:14:11.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15634,
+        "is_medically_compromised": 0,
+        "name": "سلطان محمد محمد.",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01062070061",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "الحي السابع",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:17:23.000000Z",
+        "updated_at": "2022-12-18T08:17:23.000000Z",
+        "operations": [
+            {
+                "id": 17535,
+                "user_id": 2027,
+                "patient_id": 15634,
+                "operation_style_id": 38,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "12"
+                ],
+                "state": "waiting",
+                "name": "post and core",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:17:23.000000Z",
+                "updated_at": "2022-12-18T08:17:23.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 38,
+                    "name": "post and core"
+                },
+                "visits": [
+                    {
+                        "id": 18270,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17535,
+                        "visit_id": 10690,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:17:23.000000Z",
+                        "updated_at": "2022-12-18T08:17:23.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15635,
+        "is_medically_compromised": 0,
+        "name": "منال عاطف سعيد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01205519873",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القلهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:17:33.000000Z",
+        "updated_at": "2022-12-18T08:17:33.000000Z",
+        "operations": [
+            {
+                "id": 17536,
+                "user_id": 173,
+                "patient_id": 15635,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:17:33.000000Z",
+                "updated_at": "2022-12-18T08:17:33.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18271,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17536,
+                        "visit_id": 10692,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:17:33.000000Z",
+                        "updated_at": "2022-12-18T08:17:33.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15636,
+        "is_medically_compromised": 0,
+        "name": "فاطمه صالح عبد المعطي",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01121155758",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "البساتين",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:18:52.000000Z",
+        "updated_at": "2022-12-18T08:18:52.000000Z",
+        "operations": [
+            {
+                "id": 17537,
+                "user_id": 2027,
+                "patient_id": 15636,
+                "operation_style_id": 38,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "29"
+                ],
+                "state": "waiting",
+                "name": "post and core",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:18:52.000000Z",
+                "updated_at": "2022-12-18T08:18:52.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 38,
+                    "name": "post and core"
+                },
+                "visits": [
+                    {
+                        "id": 18272,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17537,
+                        "visit_id": 10694,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:18:52.000000Z",
+                        "updated_at": "2022-12-18T08:18:52.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15637,
+        "is_medically_compromised": 0,
+        "name": "فاطمه مصطفى محمد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01102331828",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "السلام",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:20:03.000000Z",
+        "updated_at": "2022-12-18T08:20:03.000000Z",
+        "operations": [
+            {
+                "id": 17538,
+                "user_id": 2027,
+                "patient_id": 15637,
+                "operation_style_id": 32,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "19"
+                ],
+                "state": "waiting",
+                "name": "single crown",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:20:03.000000Z",
+                "updated_at": "2022-12-18T08:20:03.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 32,
+                    "name": "single crown"
+                },
+                "visits": [
+                    {
+                        "id": 18273,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17538,
+                        "visit_id": 10696,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:20:03.000000Z",
+                        "updated_at": "2022-12-18T08:20:03.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15638,
+        "is_medically_compromised": 0,
+        "name": "هاجر مصطفى متولى",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01014465460",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:20:46.000000Z",
+        "updated_at": "2022-12-18T08:20:46.000000Z",
+        "operations": [
+            {
+                "id": 17539,
+                "user_id": 173,
+                "patient_id": 15638,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "2"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:20:46.000000Z",
+                "updated_at": "2022-12-18T08:20:46.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18274,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17539,
+                        "visit_id": 10698,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:20:46.000000Z",
+                        "updated_at": "2022-12-18T08:20:46.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15639,
+        "is_medically_compromised": 0,
+        "name": "فاطمه السيد عبد القادر",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01128498469",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "شبرا",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:21:18.000000Z",
+        "updated_at": "2022-12-18T08:21:18.000000Z",
+        "operations": [
+            {
+                "id": 17540,
+                "user_id": 2027,
+                "patient_id": 15639,
+                "operation_style_id": 33,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "29"
+                ],
+                "state": "waiting",
+                "name": "simple bridge",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:21:18.000000Z",
+                "updated_at": "2022-12-18T08:21:18.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 33,
+                    "name": "simple bridge"
+                },
+                "visits": [
+                    {
+                        "id": 18275,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17540,
+                        "visit_id": 10700,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:21:18.000000Z",
+                        "updated_at": "2022-12-18T08:21:18.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15640,
+        "is_medically_compromised": 0,
+        "name": "ايمان عبد الرحمن ابو سريع",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01100022915",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "السلام",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:22:31.000000Z",
+        "updated_at": "2022-12-18T08:22:31.000000Z",
+        "operations": [
+            {
+                "id": 17541,
+                "user_id": 2027,
+                "patient_id": 15640,
+                "operation_style_id": 33,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3"
+                ],
+                "state": "waiting",
+                "name": "simple bridge",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:22:31.000000Z",
+                "updated_at": "2022-12-18T08:22:31.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 33,
+                    "name": "simple bridge"
+                },
+                "visits": [
+                    {
+                        "id": 18276,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17541,
+                        "visit_id": 10702,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:22:31.000000Z",
+                        "updated_at": "2022-12-18T08:22:31.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15641,
+        "is_medically_compromised": 0,
+        "name": "فاطمه عبد الوهاب محسن ...",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01140335542",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:23:09.000000Z",
+        "updated_at": "2022-12-18T08:23:09.000000Z",
+        "operations": [
+            {
+                "id": 17542,
+                "user_id": 173,
+                "patient_id": 15641,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "15"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:23:09.000000Z",
+                "updated_at": "2022-12-18T08:23:09.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18277,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17542,
+                        "visit_id": 10704,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:23:09.000000Z",
+                        "updated_at": "2022-12-18T08:23:09.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15642,
+        "is_medically_compromised": 0,
+        "name": "محمد سيد علي",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01140070596",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "زهراء",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:24:23.000000Z",
+        "updated_at": "2022-12-18T08:24:23.000000Z",
+        "operations": [
+            {
+                "id": 17543,
+                "user_id": 2027,
+                "patient_id": 15642,
+                "operation_style_id": 33,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "14"
+                ],
+                "state": "waiting",
+                "name": "simple bridge",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:24:23.000000Z",
+                "updated_at": "2022-12-18T08:24:23.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 33,
+                    "name": "simple bridge"
+                },
+                "visits": [
+                    {
+                        "id": 18278,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17543,
+                        "visit_id": 10706,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:24:23.000000Z",
+                        "updated_at": "2022-12-18T08:24:23.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15643,
+        "is_medically_compromised": 0,
+        "name": "هدى عبد الفتاح ذكي",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01158278986",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "عبود",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:26:12.000000Z",
+        "updated_at": "2022-12-18T08:26:12.000000Z",
+        "operations": [
+            {
+                "id": 17544,
+                "user_id": 2027,
+                "patient_id": 15643,
+                "operation_style_id": 38,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "21"
+                ],
+                "state": "waiting",
+                "name": "post and core",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:26:12.000000Z",
+                "updated_at": "2022-12-18T08:26:12.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 38,
+                    "name": "post and core"
+                },
+                "visits": [
+                    {
+                        "id": 18279,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17544,
+                        "visit_id": 10708,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:26:12.000000Z",
+                        "updated_at": "2022-12-18T08:26:12.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15644,
+        "is_medically_compromised": 0,
+        "name": "محمد محمد محسن",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01211293639",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:26:36.000000Z",
+        "updated_at": "2022-12-18T08:26:36.000000Z",
+        "operations": [
+            {
+                "id": 17545,
+                "user_id": 173,
+                "patient_id": 15644,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:26:36.000000Z",
+                "updated_at": "2022-12-18T08:26:36.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18280,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17545,
+                        "visit_id": 10710,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:26:36.000000Z",
+                        "updated_at": "2022-12-18T08:26:36.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15645,
+        "is_medically_compromised": 0,
+        "name": "نجاة ربيع السيد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01144606372",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "السلام",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:27:31.000000Z",
+        "updated_at": "2022-12-18T08:27:31.000000Z",
+        "operations": [
+            {
+                "id": 17546,
+                "user_id": 2027,
+                "patient_id": 15645,
+                "operation_style_id": 33,
+                "department_id": 2,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "12",
+                    "13"
+                ],
+                "state": "waiting",
+                "name": "simple bridge",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:27:31.000000Z",
+                "updated_at": "2022-12-18T08:27:31.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 2027,
+                    "name": "ناجي محسن عمر شهيب"
+                },
+                "style": {
+                    "id": 33,
+                    "name": "simple bridge"
+                },
+                "visits": [
+                    {
+                        "id": 18281,
+                        "director_id": null,
+                        "user_id": 2027,
+                        "operation_id": 17546,
+                        "visit_id": 10712,
+                        "user_grade_id": 6253,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:27:31.000000Z",
+                        "updated_at": "2022-12-18T08:27:31.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 2027,
+                            "name": "ناجي محسن عمر شهيب"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15646,
+        "is_medically_compromised": 0,
+        "name": "عبد الرحمن احمد سيد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01064948159",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:29:04.000000Z",
+        "updated_at": "2022-12-18T08:29:04.000000Z",
+        "operations": [
+            {
+                "id": 17547,
+                "user_id": 173,
+                "patient_id": 15646,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:29:04.000000Z",
+                "updated_at": "2022-12-18T08:29:04.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18282,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17547,
+                        "visit_id": 10714,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:29:04.000000Z",
+                        "updated_at": "2022-12-18T08:29:04.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15647,
+        "is_medically_compromised": 0,
+        "name": "حسن الدرديرى سيد",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01114573895",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:31:00.000000Z",
+        "updated_at": "2022-12-18T08:31:00.000000Z",
+        "operations": [
+            {
+                "id": 17548,
+                "user_id": 173,
+                "patient_id": 15647,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "3"
+                ],
+                "state": "cancelled",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:31:00.000000Z",
+                "updated_at": "2022-12-18T10:29:03.000000Z",
+                "activities": [
+                    {
+                        "id": 2818,
+                        "user_id": 173,
+                        "user_name": "محمد عمر عبدالحميد",
+                        "activable_id": 17548,
+                        "activable_type": "App\\Models\\Operation",
+                        "state": "cancelled",
+                        "name": "operation state wase changed to cancelled",
+                        "details": null,
+                        "created_at": "2022-12-18T10:29:03.000000Z",
+                        "updated_at": "2022-12-18T10:29:03.000000Z",
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد",
+                            "img_thumb": "user_images_thumbnails/c512a654-51a0-4411-ab4f-fedcbf2bea92.jpg"
+                        }
+                    }
+                ],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18283,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17548,
+                        "visit_id": 10716,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:31:00.000000Z",
+                        "updated_at": "2022-12-18T08:31:00.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15648,
+        "is_medically_compromised": 0,
+        "name": "رندا محمد داخلى ..",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01014309722",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:32:02.000000Z",
+        "updated_at": "2022-12-18T08:32:02.000000Z",
+        "operations": [
+            {
+                "id": 17549,
+                "user_id": 173,
+                "patient_id": 15648,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "12"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:32:02.000000Z",
+                "updated_at": "2022-12-18T08:32:02.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18284,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17549,
+                        "visit_id": 10718,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:32:02.000000Z",
+                        "updated_at": "2022-12-18T08:32:02.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15649,
+        "is_medically_compromised": 0,
+        "name": "بخيته مجمد عبد الحكيم",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01095195338",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:36:02.000000Z",
+        "updated_at": "2022-12-18T08:36:02.000000Z",
+        "operations": [
+            {
+                "id": 17550,
+                "user_id": 173,
+                "patient_id": 15649,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "5",
+                    "4"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:36:02.000000Z",
+                "updated_at": "2022-12-18T08:36:02.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18285,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17550,
+                        "visit_id": 10720,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:36:02.000000Z",
+                        "updated_at": "2022-12-18T08:36:02.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15650,
+        "is_medically_compromised": 0,
+        "name": "مروة وجيه زكى",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01128909333",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهره",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:37:37.000000Z",
+        "updated_at": "2022-12-18T08:37:37.000000Z",
+        "operations": [
+            {
+                "id": 17551,
+                "user_id": 173,
+                "patient_id": 15650,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "20"
+                ],
+                "state": "active",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:37:37.000000Z",
+                "updated_at": "2022-12-18T10:15:43.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18286,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17551,
+                        "visit_id": 10722,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:37:37.000000Z",
+                        "updated_at": "2022-12-18T08:37:37.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    },
+                    {
+                        "id": 18325,
+                        "director_id": null,
+                        "user_id": 4795,
+                        "operation_id": 17551,
+                        "visit_id": 10796,
+                        "user_grade_id": 6275,
+                        "operation_state": "waiting",
+                        "state": "active",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-20 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "Endo of lower 5",
+                        "details": "Endodontic treatment of lower 5",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-19T12:38:12.000000Z",
+                        "updated_at": "2022-12-19T12:38:26.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 4795,
+                            "name": "كريم اسامة كمال ابراهيم"
+                        }
+                    }
+                ],
+                "operators": [
+                    {
+                        "name": "كريم اسامة كمال ابراهيم",
+                        "pivot": {
+                            "operation_id": 17551,
+                            "user_grade_id": 6275,
+                            "type": "operator",
+                            "percent": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15651,
+        "is_medically_compromised": 0,
+        "name": "فاتن رمضان عمر",
+        "family": null,
+        "gender": null,
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01278278274",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "القاهر",
+        "medical_state": null,
+        "created_at": "2022-12-18T08:40:35.000000Z",
+        "updated_at": "2022-12-18T08:40:35.000000Z",
+        "operations": [
+            {
+                "id": 17552,
+                "user_id": 173,
+                "patient_id": 15651,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "31"
+                ],
+                "state": "waiting",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T08:40:35.000000Z",
+                "updated_at": "2022-12-18T08:40:35.000000Z",
+                "activities": [],
+                "user": {
+                    "id": 173,
+                    "name": "محمد عمر عبدالحميد"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18287,
+                        "director_id": null,
+                        "user_id": 173,
+                        "operation_id": 17552,
+                        "visit_id": 10724,
+                        "user_grade_id": 6589,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T08:40:35.000000Z",
+                        "updated_at": "2022-12-18T08:40:35.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 173,
+                            "name": "محمد عمر عبدالحميد"
+                        }
+                    }
+                ],
+                "operators": []
+            }
+        ]
+    },
+    {
+        "id": 15652,
+        "is_medically_compromised": 0,
+        "name": "ندى خالد بخيت",
+        "family": null,
+        "gender": "انثي",
+        "job": null,
+        "systemic_diseases": [],
+        "birth_date": null,
+        "telephone": "01260958963",
+        "national_id": null,
+        "teeth_alignment": null,
+        "address": "شبرا",
+        "medical_state": null,
+        "created_at": "2022-12-18T14:08:19.000000Z",
+        "updated_at": "2022-12-18T14:08:19.000000Z",
+        "operations": [
+            {
+                "id": 17554,
+                "user_id": 1988,
+                "patient_id": 15652,
+                "operation_style_id": 30,
+                "department_id": 4,
+                "parent_id": 0,
+                "is_diagnosis": 0,
+                "teeth": [
+                    "30"
+                ],
+                "state": "completed",
+                "name": "endodontic treatment",
+                "details": null,
+                "diagnosis": null,
+                "created_at": "2022-12-18T14:08:19.000000Z",
+                "updated_at": "2022-12-19T09:01:33.000000Z",
+                "activities": [
+                    {
+                        "id": 2832,
+                        "user_id": 1988,
+                        "user_name": "احمد ابراهيم عبدالمحسن عبدالعاطي",
+                        "activable_id": 17554,
+                        "activable_type": "App\\Models\\Operation",
+                        "state": "completed",
+                        "name": "operation state wase changed to completed",
+                        "details": null,
+                        "created_at": "2022-12-19T09:01:33.000000Z",
+                        "updated_at": "2022-12-19T09:01:33.000000Z",
+                        "user": {
+                            "id": 1988,
+                            "name": "احمد ابراهيم عبدالمحسن عبدالعاطي",
+                            "img_thumb": "user_images_thumbnails/69f9bd8e-50c4-44fc-9592-547f29dc68b8.jpg"
+                        }
+                    }
+                ],
+                "user": {
+                    "id": 1988,
+                    "name": "احمد ابراهيم عبدالمحسن عبدالعاطي"
+                },
+                "style": {
+                    "id": 30,
+                    "name": "endodontic treatment"
+                },
+                "visits": [
+                    {
+                        "id": 18288,
+                        "director_id": null,
+                        "user_id": 1988,
+                        "operation_id": 17554,
+                        "visit_id": 10726,
+                        "user_grade_id": 6140,
+                        "operation_state": "waiting",
+                        "state": "performed",
+                        "supervisor": null,
+                        "supervisor_state": null,
+                        "supervisor_notes": null,
+                        "steps": null,
+                        "parent_id": 0,
+                        "grade_id": null,
+                        "is_active": 1,
+                        "type": "step",
+                        "data": null,
+                        "date": "2022-12-18 00:00:00",
+                        "options": null,
+                        "procedures": null,
+                        "label": "diagnosis",
+                        "details": "",
+                        "xray_file": null,
+                        "img_file": null,
+                        "created_at": "2022-12-18T14:08:19.000000Z",
+                        "updated_at": "2022-12-18T14:08:19.000000Z",
+                        "documents": [],
+                        "user": {
+                            "id": 1988,
+                            "name": "احمد ابراهيم عبدالمحسن عبدالعاطي"
+                        }
+                    }
+                ],
+                "operators": [
+                    {
+                        "name": "احمد ابراهيم عبدالمحسن عبدالعاطي",
+                        "pivot": {
+                            "operation_id": 17554,
+                            "user_grade_id": 6140,
+                            "type": "operator",
+                            "percent": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
