@@ -6,8 +6,7 @@ const arr = [
     15916, 15915, 15914, 15913, 15912, 15911, 15910, 15909, 15908, 15907, 15906,
     15905, 15904, 15903, 15902, 15901, 15900, 15899, 15898, 15897, 15896, 15895,
     15894, 15893, 15892, 15891, 15890, 15889, 15888, 15887, 15886, 15885, 15884,
-    15883, 15882, 15881, 15880, 15879, 15878, 15877, 15876, 15875, 15874, 15873,
-    15872, 15871, 15870, 15869, 15864, 15863, 15862, 15861, 15860,
+    15883, 15882, 15881, 15880,
 ]
 user_list = []
 const patientsId = arr.map((id) => {
@@ -40,14 +39,14 @@ async function processUsers() {
 async function doTask() {
     let result = await processUsers()
     console.log(result)
-    // fs.writeFileSync(
-    //     'patient-data-first-page.json',
-    //     JSON.stringify(result),
-    //     function (err) {
-    //         if (err) {
-    //             console.error(err)
-    //         }
-    //     }
-    // )
+    fs.writeFileSync(
+        'patient-data-first-page.json',
+        JSON.stringify(result),
+        function (err) {
+            if (err) {
+                console.error(err)
+            }
+        }
+    )
 }
 doTask()

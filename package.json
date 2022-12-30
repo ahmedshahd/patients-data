@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ndjson": "^2.0.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "rxjs": "^7.8.0"
+    "rxjs": "^7.8.0",
+    "xhr2": "^0.2.1"
   }
 }
