@@ -4,7 +4,7 @@ import { map, catchError, of, concatMap } from 'rxjs'
 import * as dotenv from 'dotenv'
 dotenv.config()
 
-const URL = `${process.env.BASE_URL}patients?page=1`
+const URL = `${process.env.BASE_URL}patients?page=2`
 // const URL = `https://www.azucdent.net/api/patients?page=1`
 
 import xhr2 from 'xhr2'
@@ -20,13 +20,10 @@ const ids$ = ajax.getJSON(URL).pipe(
 )
 
 ids$.subscribe((result) => {
-    fs.appendFileSync(
-        'first_page_patients_ids.ndjson',
-        `${JSON.stringify(result)} \r\n`,
-        function (err) {
-            if (err) {
-                console.error(err)
-            }
-        }
-    )
+    try {
+        const writeStream = fs.createWriteStream('test.ndjson', { flags: 'a' })
+        writeStream.write(`${JSON.stringify(result)} \r\n`)
+    } catch (error) {
+        console.log(error)
+    }
 })

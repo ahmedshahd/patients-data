@@ -82,9 +82,10 @@ const patientData$ = from(patientId).pipe(
 )
 
 patientData$.subscribe((result) => {
-    return fs.appendFile('test.ndjson', JSON.stringify(result), function (err) {
-        if (err) {
-            console.error(err)
-        }
-    })
+    try {
+        const writeStream = fs.createWriteStream('test.ndjson', { flags: 'a' })
+        writeStream.write(`${JSON.stringify(result)} \r\n`)
+    } catch (error) {
+        console.log(error)
+    }
 })
