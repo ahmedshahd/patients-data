@@ -1,22 +1,13 @@
 import { ajax } from 'rxjs/ajax'
 import fs from 'fs'
 import xhr2 from 'xhr2'
-import {
-    tap,
-    pipe,
-    from,
-    map,
-    catchError,
-    delay,
-    of,
-    lastValueFrom,
-    defer,
-    switchMap,
-    concatMap,
-} from 'rxjs'
-import requestPromise from 'request-promise'
-let URL = 'https://www.azucdent.net/api/patient/'
+import { from, map, delay, concatMap } from 'rxjs'
+import * as dotenv from 'dotenv'
 global.XMLHttpRequest = xhr2
+dotenv.config()
+
+const URL = `${process.env.BASE_URL}patient/`
+
 const patientId = [
     15927, 15926, 15925, 15924, 15923, 15922, 15921, 15920, 15919, 15918, 15917,
     15916, 15915, 15914, 15913, 15912, 15911, 15910, 15909, 15908, 15907, 15906,
@@ -73,8 +64,7 @@ const patientData$ = from(patientId).pipe(
             method: 'Get',
             headers: {
                 'Content-Type': 'application/json',
-                authorization:
-                    'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvd3d3LmF6dWNkZW50Lm5ldFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTY2OTk3NTg5OCwibmJmIjoxNjY5OTc1ODk4LCJqdGkiOiJLTzlJSEZGWmV3b2VydFRIIiwic3ViIjo0ODYsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.dUvDSNqPwGaKgAzvVjruJeQaGE3odu_3SFTO1T9XKuI',
+                authorization: process.env.TOKEN,
             },
         }).pipe(delay(1000))
     ),
@@ -92,13 +82,9 @@ const patientData$ = from(patientId).pipe(
 )
 
 patientData$.subscribe((result) => {
-    return fs.appendFile(
-        'patient-data-first-page.json',
-        JSON.stringify(result),
-        function (err) {
-            if (err) {
-                console.error(err)
-            }
+    return fs.appendFile('test.ndjson', JSON.stringify(result), function (err) {
+        if (err) {
+            console.error(err)
         }
-    )
+    })
 })
